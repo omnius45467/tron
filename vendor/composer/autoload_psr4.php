@@ -7,7 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Stringy\\' => array($vendorDir . '/danielstjules/stringy/src'),
-    'Sammyboy45467\\Tron\\' => array($baseDir . '/src/Sammyboy45467/Tron'),
+    'Sammyboy45467\\Tron\\' => array($baseDir . '/src/Sammyboy45467'),
     'Illuminate\\Support\\' => array($vendorDir . '/illuminate/support'),
     'Illuminate\\Contracts\\' => array($vendorDir . '/illuminate/contracts'),
 );

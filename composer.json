@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sammyboy45467\\Tron\\": "src/Sammyboy45467/"
+            "Sammyboy45467\\Tron\\": "src/Sammyboy45467"
         }
     },
     "minimum-stability": "dev"
